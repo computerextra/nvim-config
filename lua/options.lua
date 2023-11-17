@@ -25,9 +25,6 @@ o.cmdheight = 1
 -- columns to highlight
 o.colorcolumn = "80"
 
--- number of columns in the display
-o.columns = 80
-
 -- options for Insert mode completion
 o.completeopt = "menu,menuone,noselect"
 
